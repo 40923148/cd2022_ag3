@@ -34,6 +34,7 @@
 <v t="leo.20220417163540.1"><vh>slide 3-3</vh></v>
 <v t="leo.20220417163541.1"><vh>slide 3-3</vh></v>
 <v t="leo.20220417163541.2"><vh>slide 3-3</vh></v>
+<v t="leo.20220419215013.1"><vh>slide 3-3</vh></v>
 <v t="leo.20220417163542.1"><vh>slide 3-3</vh></v>
 </v>
 <v t="leo.20200818170725.1"><vh>slide 4</vh></v>
@@ -217,11 +218,13 @@ vertical: body pane on the botton</t>
 
 </t>
 <t tx="leo.20200818170909.1">&lt;section&gt;
- &lt;h3&gt;張煒中1&lt;/h3&gt;
-        &lt;p&gt;
-      在上禮拜老師上傳w8任務當天晚上我就嘗試做做看任務一，先將在 release 目錄中取得 simExtMtb.dll, 放入 Coppeliasim 根目錄，但我卻不明白這麼做的意義，隨後我便嘗試做任務二，但我發現任務二需要分組討論，便先將需要的分配的任務整理好，隔天上課再將任務內容分配就好。
+    &lt;h3&gt;張煒中2&lt;/h3&gt;
+    &lt;p&gt;
+    
+      在使用Solvespace繪製零件時我遇到許多困難，因為上學期未分配到此繪圖程式，導致我在使用時遇到極大的困難，連最基本的長料限制等等我都需要一個個上網尋找做法，最後繪出零件我也完全無法組合他們，所以最後只有使用NX來組合，最後將STL檔匯入CoppeliaSim後雖然嘗試操作前三軸依舊失敗告終。
 
     &lt;/p&gt;
+   
 &lt;/section&gt;
 </t>
 <t tx="leo.20200818170953.1">&lt;section&gt;
@@ -237,7 +240,10 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200818171010.1">&lt;section&gt;
     &lt;h3&gt;周玥辰&lt;/h3&gt;
     &lt;p&gt;
-     
+     分配到SolveSpace，我是第一次接觸，用起來相當不熟練也不習慣，按照著教程和自己摸索，現在算是會用了，但還不完全。
+我只知道他是一個能讓我情緒波動很大的好東西，感覺用起來挺費力的，使用起來比solidworks之類的還要不方便，而它的精髓我
+想我是還沒接觸到的。
+嘗試進行組合，宣告失敗。
     &lt;/p&gt;
    
 &lt;/section&gt;</t>
@@ -297,7 +303,11 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220417163538.1">&lt;section&gt;
   &lt;h3&gt;方冠勳&lt;/h3&gt;
     &lt;p&gt;
-     
+     從w8任務裡學到許多不同的匯入方法以及學會一些編輯程式碼，
+也實際畫了幾樣零件來實行，
+但後來地模擬無法成功，
+主要是沒有例子讓我們去對應後續編排連結，
+目前僅做到建立基本場景，後續編排個完全無方向
     &lt;/p&gt;
    
 &lt;/section&gt;</t>
@@ -318,14 +328,22 @@ vertical: body pane on the botton</t>
 <t tx="leo.20220417163541.2">&lt;section&gt;
   &lt;h3&gt;周育德&lt;/h3&gt;
     &lt;p&gt;
-     
+     我分配到的是NX，首先我們都先將零件畫好後，組合完成，轉成STL匯入CoppeliaSim後雖然嘗試操作前三軸但我不太熟悉怎麼操作，所以沒有弄出來，但是零件圖與組合圖均有完成。
     &lt;/p&gt;
    
 &lt;/section&gt;</t>
 <t tx="leo.20220417163542.1">&lt;section&gt;
   &lt;h3&gt;張智程&lt;/h3&gt;
     &lt;p&gt;
+    這次期中考題目，我被分配到使用NX繪製零件，NX是從之前就有慢慢在學習了，尺寸我是將零件轉.dwg檔，然後使用AutoCAD確定零件尺寸，這部分算是製圖部分最麻煩的地方。
      
+    &lt;/p&gt;
+   
+&lt;/section&gt;</t>
+<t tx="leo.20220419215013.1">&lt;section&gt;
+  &lt;h3&gt;林泰宇&lt;/h3&gt;
+    &lt;p&gt;
+     這次我使用onshape進行繪製，因上學期已經非常上手了，所以這次繪圖的速度已經有起來了，雖然尺寸可能有些不準，但是都有抓在容許的值，不會的部分也會請教其他同學
     &lt;/p&gt;
    
 &lt;/section&gt;</t>
