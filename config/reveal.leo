@@ -279,6 +279,8 @@ vertical: body pane on the botton</t>
      &lt;a href="https://40923114.github.io/cd2022/blog/index.html"&gt;江亦德&lt;/a&gt; 
      &lt;/br&gt;
     &lt;a href="https://jason60714.github.io/cd2022/blog/index.html"&gt;吳圳吉&lt;/a&gt; 
+    &lt;/br&gt;
+     &lt;a href="https://40923129.github.io/cd2022/blog/index.html"&gt;林泰宇&lt;/a&gt;
     &lt;/p&gt;
    
 &lt;/section&gt;</t>
@@ -288,9 +290,7 @@ vertical: body pane on the botton</t>
      &lt;a href="https://40923148.github.io/cd2022/blog/index.html"&gt;張煒中&lt;/a&gt; 
      &lt;/br&gt;
      &lt;a href="https://CYC40923109.github.io/cd2022/blog/index.html"&gt;周玥辰&lt;/a&gt; 
-     &lt;/br&gt;
-     &lt;a href="https://40923129.github.io/cd2022/blog/index.html"&gt;林泰宇&lt;/a&gt;
-    
+     
     &lt;/p&gt;
    
 &lt;/section&gt;</t>
